@@ -1,0 +1,6 @@
+{
+  "generated_at": "2025-11-13T06:33:59.700170+00:00",
+  "source_total": 3349,
+  "processed_total": 100,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2"
+}
